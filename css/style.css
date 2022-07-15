@@ -441,7 +441,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   content: " ";
   width: 2px;
-  background-color: #66b3ff;
+  background-color: #E6E6E6;
   left: 50%;
   margin-left: 0px;
 }
